@@ -3,6 +3,9 @@
 Welcome to my networking projects portfolio, a collection of hands-on simulations built using Cisco Packet Tracer. These projects demonstrate my ability to design, configure, and troubleshoot network environments, reflecting skills essential for roles in **network engineering**, **IT infrastructure**, and **cybersecurity**.
 
 ---
+# Important Note :
+  You need to have Cisco packet tracer installed on your computer and account with Cisco Academy to open these files . 
+---
 
 ## 🚀 Overview
 
